@@ -131,3 +131,4 @@ Markup : Code appears between colons :EMOJICODE:
 :mask:
 
 Edit: Supachok Jrirarojkul 632115041
+Edit: Gunn     Chochuwong  632115001
